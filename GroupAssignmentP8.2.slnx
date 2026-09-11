@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="GroupAssignmentP8.2.vcxproj" />
+  <Project Path="GroupAssignmentP8.2.vcxproj" Id="40ae8c85-46b6-4722-a434-7d5998251332" />
 </Solution>
