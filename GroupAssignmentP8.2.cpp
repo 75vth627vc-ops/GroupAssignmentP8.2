@@ -48,7 +48,7 @@ vector<string> loadDictionary(const string& dictPath)
 }
 
 // ============================================================================
-// Author: Member 2
+// Author: Maximn Keene
 // Purpose: Strips punctuation and converts a raw document token to lowercase.
 // ============================================================================
 string cleanWord(const string& rawWord)
@@ -79,7 +79,7 @@ string cleanWord(const string& rawWord)
 }
 
 // ============================================================================
-// Author: Member 2
+// Author: Maxim Keene
 // Purpose: Performs a search to verify if a word exists in the dictionary vector.
 // ============================================================================
 bool isWordInDictionary(const string& word, const vector<string>& dictionary)
