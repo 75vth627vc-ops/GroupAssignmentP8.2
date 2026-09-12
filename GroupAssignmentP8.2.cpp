@@ -66,7 +66,7 @@ string cleanWord(const string& rawWord)
 }
 
 // ============================================================================
-// Author: Maxim Keene
+// Author: Maxim Keene 
 // Purpose: Performs a search to verify if a word exists in the dictionary vector.
 // ============================================================================
 bool isWordInDictionary(const string& word, const vector<string>& dictionary)
